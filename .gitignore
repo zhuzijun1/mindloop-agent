@@ -1,0 +1,13 @@
+node_modules/
+dist/
+build/
+*.log
+npm-debug.log*
+.env
+.env.local
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+# 运行时数据（会话/备忘等本地文件）
+server/data/*.json
